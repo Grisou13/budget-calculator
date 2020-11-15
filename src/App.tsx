@@ -15,6 +15,8 @@ const appState: AppStateInterface = {
   income: [50000]
 }
 
+
+
 class App extends React.Component {
   constructor(props: any){
     super(props);
@@ -36,6 +38,7 @@ class App extends React.Component {
             <Grid item xs={12} sm={6}></Grid>
           </div>
         </Grid>
+
       </div>
     );
   }

@@ -4,7 +4,7 @@ function Expenses(){
     return (
         <div>
             <p>Expenses</p>
-            <button>+</button>
+            <button onClick={}>+</button>
         </div>
     )
 }
